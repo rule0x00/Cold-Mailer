@@ -1,1 +1,4 @@
 .venv/
+.env
+VECTORSTORE/
+**__pycache__
